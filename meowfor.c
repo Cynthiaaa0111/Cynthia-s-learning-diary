@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    for (i=o,i++,i<3)
+    for (int i=o;i++;i<3)
     printf ("meow\n");
 }
